@@ -22,7 +22,7 @@ global.lApiKey = {// if this API key get expired then please go to https://api.l
 }
 
 
-global.botname = "Queen Anya" 
+global.botname = "Queen Anyfdfffffa" 
 global.author = "Enter Author Name Here"  
 global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
 global.myweb = "Enter Your Any Website Profile Link Here"
@@ -68,7 +68,7 @@ global.mess = {
     botAdmin: 'The bot needs to be an admin to process this command.',
     owner: 'You are not the owner of this bot so you cannot use this command.',
     group: 'This command is only made for group chats.',
-    private: 'This command is only for private chats.',
+    private: 'This command is only for private chagts.',
     wait: '```「▰▰▰▱▱▱▱▱▱▱」Loading...```',
     link: 'I need a link to process this command.',
     error: '```404 Error```',
